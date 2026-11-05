@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Registro Alimentar Inteligente",
+    "slug": "registro-alimentar-mobile",
+    "version": "1.0.0",
+    "platforms": [
+      "web"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Registro Alimentar",
+      "shortName": "Registro",
+      "description": "Um diário alimentar leve, em linguagem comum. Protótipo acadêmico navegável.",
+      "themeColor": "#D4C3AA",
+      "backgroundColor": "#D4C3AA"
+    }
+  }
+}
